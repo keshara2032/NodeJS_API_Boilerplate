@@ -4,7 +4,7 @@
 
 - Install NodeJS, MongoDB
 - Install `npm` or `yarn`
-- Rename `.env.example` to `.env`
+- Rename `.env.example` to `.env` and replace MONGOURI to your db
 - Fulfill `.env` data
 - Start MongoDB
 - Run `yarn run dev` or `npm run dev`
